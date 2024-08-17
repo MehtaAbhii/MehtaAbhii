@@ -9,7 +9,7 @@
 ## ⚡ Past Projects:
 1. **Real-Time Semantic Segmentation**
    - Implemented a real-time semantic segmentation model for computer vision applications
-   - Technologies used: PyTorch, OpenCV
+   - Technologies used: PyTorch, OpenCV, CNNs
 
 2. **AI PDF to Data Converter**
    - Developed an AI-powered tool to extract and structure data from PDF documents
