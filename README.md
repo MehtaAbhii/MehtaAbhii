@@ -3,9 +3,10 @@
 - 👀 I’m interested in coding and machine learning. Currently, I'm expanding my skills in data structures and algorithms to build a solid foundation for my tech career.
 ## 🌱 My Skills
 - Programming: Python, C, C++,HTML,CSS,Javascript
-- Machine Learning: TensorFlow, PyTorch,OpenCV,CNNs
+- Machine Learning: TensorFlow, PyTorch,OpenCV,CNNs,LLMs
 - Data Structures & Algorithms
 - Version Control: Git
+- 
 ## ⚡ Past Projects:
 1. **Real-Time Semantic Segmentation**
    - Implemented a real-time semantic segmentation model for computer vision applications
@@ -19,15 +20,8 @@
    - Created an AI-based system for herbal plant detection.
    - Technologies used: Deep Learning, Image Processing
 
-### Machine Learning Resources
-- [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
-- [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
-- [Stanford CS229: Machine Learning](https://cs229.stanford.edu/)
-- [Kaggle Competitions](https://www.kaggle.com/competitions)
-- [arXiv Machine Learning Papers](https://arxiv.org/list/cs.LG/recent)
-
 ### 📫 Connect With Me✨✨
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- LinkedIn: [linkedin.com/in/Abhi Mehta](www.linkedin.com/in/abhi-mehta-84b72a257)
 
 Feel free to reach out for collaborations or discussions on IT, coding, and machine learning!✨✨✨
 <!---
