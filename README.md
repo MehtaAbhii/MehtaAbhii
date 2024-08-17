@@ -6,7 +6,7 @@
 - Machine Learning: TensorFlow, PyTorch,OpenCV,CNNs,LLMs
 - Data Structures & Algorithms
 - Version Control: Git
-- 
+
 ## ⚡ Past Projects:
 1. **Real-Time Semantic Segmentation**
    - Implemented a real-time semantic segmentation model for computer vision applications
