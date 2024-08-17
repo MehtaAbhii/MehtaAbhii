@@ -20,8 +20,8 @@
    - Created an AI-based system for herbal plant detection.
    - Technologies used: Deep Learning, Image Processing
 
-### 📫 Connect With Me✨✨
-- LinkedIn: [linkedin.com/in/Abhi Mehta](www.linkedin.com/in/abhi-mehta-84b72a257)
+### 📫 Connect With Me✨✨✨
+- LinkedIn: [linkedin.com/in/Abhi Mehta](https://www.linkedin.com/in/abhi-mehta-84b72a257/)
 
 Feel free to reach out for collaborations or discussions on IT, coding, and machine learning!✨✨✨
 <!---
