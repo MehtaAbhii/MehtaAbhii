@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MehtaAbhii
+-  Hi, I’m @MehtaAbhii
 - Third Year IT Student | ML Enthusiast | Aspiring Developer
-- 👀 I’m interested in coding and machine learning. Currently, I'm expanding my skills in data structures and algorithms to build a solid foundation for my tech career.
+-  I’m interested in coding and machine learning. Currently, I'm expanding my skills in data structures and algorithms to build a solid foundation for my tech career.
 ## My Skills
 - Programming: Python, C, C++,HTML,CSS,Javascript
 - Machine Learning: TensorFlow, PyTorch,OpenCV,CNNs,LLMs
